@@ -1,0 +1,38 @@
+{
+  "name": "exam-pure",
+  "version": "1.0.0",
+  "description": "考试专用纯净模板",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naixin-coder/exam-pure.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naixin-coder/exam-pure/issues"
+  },
+  "homepage": "https://github.com/naixin-coder/exam-pure#readme",
+  "dependencies": {
+    "antd": "^5.8.3",
+    "less": "^4.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.15.0"
+  },
+  "devDependencies": {
+    "@rollup/plugin-alias": "^5.0.0",
+    "@rollup/plugin-node-resolve": "^15.1.0",
+    "@vitejs/plugin-react": "^4.0.3",
+    "eslint": "^8.47.0",
+    "eslint-plugin-react": "^7.33.1",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.3",
+    "vite": "^4.4.9"
+  }
+}
